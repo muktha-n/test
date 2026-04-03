@@ -6,8 +6,8 @@ public class test {
 		int b=3;
 		int c=a-b;
 		int d= a*b;
-		System.out.println(c);
-		System.out.println(d);
+		System.out.println("subtract:"+c);
+		System.out.println("multiply:"+d);
 	}
 	
 }
